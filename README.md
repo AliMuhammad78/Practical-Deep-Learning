@@ -10,7 +10,7 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?style=for-the-badge\&logo=jupyter)
 
 </div>
-
+   
 ---
 
 # 📌 About The Repository

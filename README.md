@@ -1,6 +1,6 @@
 #  Practical Deep Learning
 
-<div align="center">
+<div align="center"> 
 
 ### From Neural Network Fundamentals to Computer Vision & Transfer Learning
 
